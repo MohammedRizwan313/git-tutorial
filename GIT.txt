@@ -1,0 +1,21 @@
+. install
+. git init
+. git add
+. git status
+. git commit
+. git remote
+. git clone
+
+
+
+. git push
+. git merge
+. git pull
+. git code spaces
+. git branch
+. git checkout
+
+. Fork
+. pull request
+. git reset
+. git revert
